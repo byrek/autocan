@@ -38,10 +38,10 @@ would allow the observation of parameters.
 
 Here I will publish the consecutive materials describing:
 
-1.  a technical walkthough the SCADA systems with pros and cons for the
+1.  A technical walkthough the SCADA systems with pros and cons for the
     setup
 
-2.  based on the above, I am going to develop our system to a next
+2.  Based on the above, I am going to develop our system to a next
     iteration
 
 In general, what I am looking forward is to:
