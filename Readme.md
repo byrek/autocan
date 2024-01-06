@@ -1,7 +1,4 @@
-# abstract
-
-\"To measure is to know. If You can't measure it, You can't improve
-it\" - Lord Kelvin.
+# To measure is to know. If You can't measure it, You can't improve it - Lord Kelvin.
 
 # A word of introduction to SCADA
 
