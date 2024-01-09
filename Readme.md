@@ -65,4 +65,4 @@ In general, what I am looking forward is to:
 
 Are You interested? Fasten the seatbelt, let's see how far we can go
 with a DIY project. Oh, and by the way - if You want me to ellaborate on
-something, feel free to ask (You can find me on X at Hax0rZmr0cku).
+something, feel free to ask (You can find me on X @Hax0rZmr0cku).
