@@ -34,19 +34,6 @@ density is trivially simple. Out of pure curiosity, I decided - as an
 experiment - to design and implement a practical SCADA solution that
 would allow the observation of parameters.
 
-# Table of Content
-
-Here I will publish the consecutive materials describing:
-
-1.  A technical walkthough the SCADA systems with pros and cons for the
-    setup
-
-2.  Based on the above, I am going to develop our system to a next
-    iteration
-
-
-1.  [Chapter one: Back in the days](BackInTheDays.pdf)
-
 In general, what I am looking forward is to:
 
 1.  Familiarize You with SCADA systems from the very basics,
@@ -62,6 +49,10 @@ In general, what I am looking forward is to:
 
 4.  Last but not least, I am looking forward passionates and volunteers,
     that could share their knowledge in the project like I do.
+    
+   #  Table of Content
+
+   [ Chapter one: Back in the days](BackInTheDays.pdf)
 
 Are You interested? Fasten the seatbelt, let's see how far we can go
 with a DIY project. Oh, and by the way - if You want me to ellaborate on
