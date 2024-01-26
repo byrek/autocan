@@ -54,7 +54,7 @@ In general, what I am looking forward is to:
 
    [ Chapter one: Back in the days](BackInTheDays.pdf)
    
-   [ Chapter two: Digital Scada](DigitalScada.pdf)
+   [ Chapter two: Digital Scada](DigitalScada1.pdf)
 
 Are You interested? Fasten the seatbelt, let's see how far we can go
 with a DIY project. Oh, and by the way - if You want me to ellaborate on
